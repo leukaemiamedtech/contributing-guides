@@ -10,4 +10,5 @@ Read our [Code Of Conduct](CODE-OF-CONDUCT.md)
 
 # Contributing Guides
 
-- AI Agents: [AI Agents Contributing Guide](CONTRIBUTING-GUIDE-AI-AGENTS.md) 
+- AI Agents: [AI Agents Contributing Guide](CONTRIBUTING-GUIDE-AI-AGENTS.md)
+- IoT Agents: [IoT Agents Contributing Guide](CONTRIBUTING-GUIDE-IOT-AGENTS.md) 
