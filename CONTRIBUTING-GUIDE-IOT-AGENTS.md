@@ -1,4 +1,4 @@
-# Contributing to Peter Moss Leukaemia MedTech Research CIC AI Agent projects
+# Contributing to Peter Moss Leukaemia MedTech Research CIC IoT Agent projects
 
 Peter Moss Leukaemia MedTech Research CIC encourages and welcomes code contributions, bug fixes and enhancements from the Github community.
 
@@ -92,7 +92,7 @@ git clone https://github.com/YourAccount/hias-mqtt-iot-agent.git
 3. Add the main repository as a remote to your forked repository:
 
 ```bash
-git remote add upstream https://github.com/AIIAL/hias-mqtt-iot-agent.git
+git remote add upstream https://github.com/leukaemiamedtech/hias-mqtt-iot-agent.git
 ```
 
 Before starting your contribution, remember to synchronize your local branch with the `develop` branch in the upstream repository. To do this, use following these steps
@@ -137,7 +137,7 @@ Remember to update the [mkdocs.yml](mkdocs.yml) file to match your documentation
 
 # Repository structure
 
-Repository structures for HIAS AI Agents **must be followed exactly** for all contributions. Pull Requests that do not follow this structure will be rejected and closed with no further discussion.
+Repository structures for HIAS IoT Agents **must be followed exactly** for all contributions. Pull Requests that do not follow this structure will be rejected and closed with no further discussion.
 
 ```
 - Project Root (Directory)
@@ -256,7 +256,7 @@ All READMEs and documentation should include the following footer:
 # Contributing
 Peter Moss Leukaemia MedTech Research CIC encourages and welcomes code contributions, bug fixes and enhancements from the Github community.
 
-Please read the [IOT AGENT CONTRIBUTING](https://github.com/leukaemiamedtech/contributing-guide/blob/master/CONTRIBUTING-IOT-AGENTS.md "IOT AGENT CONTRIBUTING") guide for a full guide to contributing to our AI Agent projects. You will also find our code of conduct in the [Code of Conduct](https://github.com/leukaemiamedtech/contributing-guide/blob/main/CODE-OF-CONDUCT.md) document.
+Please read the [IOT AGENT CONTRIBUTING](https://github.com/leukaemiamedtech/contributing-guide/blob/master/CONTRIBUTING-IOT-AGENTS.md "IOT AGENT CONTRIBUTING") guide for a full guide to contributing to our IoT Agent projects. You will also find our code of conduct in the [Code of Conduct](https://github.com/leukaemiamedtech/contributing-guide/blob/main/CODE-OF-CONDUCT.md) document.
 
 ## Contributors
 - [Adam Milton-Barker](https://www.leukaemiamedtechresearch.org.uk/about/volunteers/adam-milton-barker "Adam Milton-Barker") - [Peter Moss Leukaemia MedTech Research CIC](https://www.leukaemiamedtechresearch.org.uk "Peter Moss Leukaemia MedTech Research CIC") Founder & Managing Director.
@@ -429,7 +429,7 @@ git push
 
 # Pull Request protocol
 
-Contributions to our AI Agent projects are done using a PR. The detailed "protocol" used in such PR is described below:
+Contributions to our IoT Agent projects are done using a PR. The detailed "protocol" used in such PR is described below:
 
 * Direct commits to main or develop branches (even single-line modifications) are not allowed. Every modification has to come as a PR to the your branch
 * PRs implement/fix submitted issues, the issue number has to be referenced in the subject of the relevant commit and PR
